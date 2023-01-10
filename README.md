@@ -7,4 +7,5 @@ In 4th folder is a financial report written to the best of my ability at the tim
 
 Overall exercises were solved at satisfactory manner allowing me to take part in the next stage of recruitment process.
 
-[Tasks.pdf](https://github.com/arturpiszczatowski/AnalystTest/files/10387444/Tasks.pdf)
+![image](https://user-images.githubusercontent.com/56433709/211680299-faa18c21-2bea-49d0-9bb4-caab23eb7148.png)
+
