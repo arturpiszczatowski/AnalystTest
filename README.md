@@ -1,5 +1,5 @@
 # AnalystTest
-Below You can find exercises presented to me for one of my job interviews related to Data Science.
+Below You can find exercises presented to me at one of my job interviews related to Data Science.
 
 Solutions to tasks 1-3 are solved in folders named accordingly.
 
