@@ -7,8 +7,9 @@ In 4th folder is a financial report written to the best of my ability at the tim
 
 Overall exercises were solved at satisfactory manner allowing me to take part in the next stage of recruitment process.
 
-![image](https://user-images.githubusercontent.com/56433709/211680743-d61f1ec8-ed80-4702-bbdd-b313aadc4b4e.png)
-![image](https://user-images.githubusercontent.com/56433709/211680778-d9b8c886-db31-476f-86a1-f24f69f754ec.png)
+![image](https://user-images.githubusercontent.com/56433709/211680882-082b036a-dcfe-46dd-8c03-1c45e95abcbb.png)
+![image](https://user-images.githubusercontent.com/56433709/211680951-3d32a3c6-e5e0-46af-aa08-29c7771625cb.png)
+
 
 
 
